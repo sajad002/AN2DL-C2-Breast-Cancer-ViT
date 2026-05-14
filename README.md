@@ -96,8 +96,8 @@ Then open the notebooks locally and update the dataset paths.
 
 ## Links
 
-- Kaggle competition (original): https://www.kaggle.com/competitions/an2dl2526c2
-- Kaggle competition (updated / v2): https://www.kaggle.com/competitions/an2dl2526c2v2
+- Kaggle competition (original, replaced after dataset update): https://www.kaggle.com/competitions/an2dl2526c2
+- Kaggle competition (updated / v2 — use this): https://www.kaggle.com/competitions/an2dl2526c2v2
 - Medium post: https://medium.com/@radfarnush/how-i-met-your-model-navigating-cancer-subtypes-green-ink-and-shrek-12473ad290ba
 
 ## Disclaimer
