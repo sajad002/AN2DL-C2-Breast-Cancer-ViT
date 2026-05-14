@@ -67,10 +67,6 @@ Macro F1 (%) — **Local / Kaggle**:
 - `Grumpy_Doctogres_EDA.ipynb` — EDA (class imbalance, artifacts, leakage/duplicates checks)
 - `AN2DL_Homeworks_Report_Second_Challenge.pdf` — final project report
 
-Optional reading:
-
-- `How I Met Your Model_ Navigating Cancer Subtypes, Green Ink, and… Shrek_ 🧬 _ by Farnoosh AfshinRad _ Medium.pdf`
-
 ## How to run
 
 ### Option A — Google Colab (recommended)
