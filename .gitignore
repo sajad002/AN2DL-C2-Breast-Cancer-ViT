@@ -1,0 +1,53 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# --- Environments ---
+.venv/
+venv/
+ENV/
+.env
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Data (do not commit Kaggle/course datasets) ---
+train_data/
+test_data/
+data/
+train_labels.csv
+
+# --- Docs (avoid publishing course snapshots) ---
+AN2DL* Kaggle.pdf
+How I Met Your Model_*.pdf
+
+# If you generate extracted patches/masks locally
+patches/
+patch_dataset*/
+processed*/
+
+# --- Submissions / outputs ---
+submissions*/
+outputs*/
+runs*/
+logs*/
+*.log
+
+# --- Model artifacts ---
+checkpoints*/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.pkl
+*.joblib
+*.npy
+*.npz
+
+# --- OS / editor ---
+.DS_Store
+.vscode/
